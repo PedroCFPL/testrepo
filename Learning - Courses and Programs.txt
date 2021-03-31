@@ -1,0 +1,55 @@
+Learning
+
+Courses
+
+Computer Science
+
+6.0001 Introduction to Computer Science and Programming in Python (MIT OCW)
+6.0002 Introduction to Data Science and Computing (MIT OCW)
+6.092 Introduction to Programming in Java (MIT OCW)
+COMP 250 Introduction to Computer Science (McGill)
+- Algorithms, Part I (Coursera, Princeton)
+- Algorithms, Part II (Coursera, Princeton)
+- 6.005 Software Construction (MIT OCW) or
+  - 6.005.1x Software Construction in Java (edX, MIT)
+  - 6.005.2x Advanced Software Construction in Java (edX, MIT)
+- Machine Learning (Coursera, Stanford)
+- Databases: Modeling and Theory (edX, Stanford)
+- Databases: Relational Databases and SQL (edX, Stanford)
+- Databases: Semistructred Data (edX, Stanford)
+- 6.006 Introduction to Algorithms (MIT OCW)
+- 6.034 Artificial Intelligence (MIT OCW)
+- 6.036 Introduction to Machine Learning (MIT OCW)
+- 6.046 Design and Analysis of Algorithms (MIT OCW)
+
+Math
+
+- 6.042J Mathematics for Computer Science (MIT OCW)
+- Statistics 110: Probability (edX, Harvard)
+- MAE5790 Nonlinear Dynamics and Chaos (Youtube, Cornell)
+- Intro to Descriptive Statistics (Udacity)
+- Intro to Inferential Statistics (Udacity)
+- 18.600 Probability and Random Variables (MIT OCW)
+- 18.650 Statistics for Applications (MIT OCW)
+- 18.S096 Topics in Mathematics of Data Science (MIT OCW)
+
+Data Science
+
+
+
+Programs
+
+Computer Science
+
+- Fullstack Open (University of Helsinki)
+- Deep Learning Specialization (Coursera, DeepLearning.AI)
+
+Data Science
+
+- Data Science Specialization (Coursera, Johns Hopkins)
+- IBM Data Science Professional Certificate (Coursera, IBM)
+- Applied Data Science with Python Specialization (Coursera, UMich)
+- Advanced Data Science with IBM Specialization (Coursera, IBM)
+
+
+
